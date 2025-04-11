@@ -1,0 +1,24 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven build directory
+/target/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store           # macOS
+Thumbs.db           # Windows
+
+# Temporary files
+*.bak
+*.swp
+
+# JAR, WAR files
+*.jar
+*.war
+
+# Environment files (if you have any sensitive credentials)
+.env
